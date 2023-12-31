@@ -1,6 +1,6 @@
 {
-    "name": "Ebus-Suits",
-    "version_number": "1.0.0",
+    "name": "Ebus_Suits",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/ebucario/ebus-suits",
     "description": "Ebu's Suits for Lethal Company",
     "dependencies": [
