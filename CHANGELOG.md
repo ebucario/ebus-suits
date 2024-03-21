@@ -1,3 +1,15 @@
+## 1.1.0
+
+change package name, add easter egg
+
+## 1.0.2
+
+fix icon size, reoptimize suit .png file
+
+## 1.0.1
+
+fix package name
+
 ## v1.0.0
 
-Initial release.
+initial release
