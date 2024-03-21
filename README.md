@@ -1,7 +1,5 @@
-# Ebu's Suits 1.0.0
+# [DEPRECATED]
 
-## Dependencies
+i learned the hard way you can't change package names, like, at all.
 
-Requires [x753's More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/).
-
-Found the player model in the More Company support Discord server. (I hate the Discordification of support and the resultant walled garden so so so so so so so so so much.) Thanks to "jolly man" (meteheus) though for randomly having a `.blend` file ready to go.
+this mod is deprecated and has been stubbed out, see [ebus_suits](https://thunderstore.io/c/lethal-company/p/ebucario/ebus_suits/) for the actual mod
