@@ -5,6 +5,8 @@ if [[ ! -r "manifest.json" ]]; then
 	exit 1;
 fi
 
+mkdir -p "build"
+
 ZIP="build/ebus_suits.$(jq -r .version_number manifest.json).zip"
 
 if [[ -r $ZIP ]]; then
