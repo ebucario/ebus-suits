@@ -14,6 +14,6 @@ fix icon size, reoptimize suit .png file
 
 fix package name
 
-## v1.0.0
+## 1.0.0
 
 initial release
