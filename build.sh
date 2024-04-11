@@ -13,6 +13,6 @@ if [[ -r $ZIP ]]; then
 	rm "$ZIP"
 fi
 
-zip -r "$ZIP" BepInEx CHANGELOG.md icon.png manifest.json README.md
+zip -r "$ZIP" BepInEx CHANGELOG.md ebus-suits.dll icon.png manifest.json README.md
 
 echo "done"

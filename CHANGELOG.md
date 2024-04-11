@@ -1,3 +1,7 @@
+## 2.0.0
+
+add model replacement
+
 ## 1.1.0
 
 change package name, add easter egg

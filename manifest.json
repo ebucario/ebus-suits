@@ -1,10 +1,11 @@
 {
-    "name": "ebus_suits",
-    "version_number": "1.1.0",
-    "website_url": "https://github.com/ebucario/ebus-suits",
-    "description": "ebu's suits for Lethal Company",
-    "dependencies": [
-        "x753-More_Suits-1.4.1",
-        "Clementinise-CustomSounds-2.3.2"
-    ]
+  "name": "ebus_suits",
+  "version_number": "2.0.0",
+  "website_url": "https://github.com/ebucario/ebus-suits",
+  "description": "ebu's suits for Lethal Company",
+  "dependencies": [
+    "x753-More_Suits-1.4.1",
+    "Clementinise-CustomSounds-2.3.2",
+    "BunyaPineTree-ModelReplacementAPI-2.3.1"
+  ]
 }
